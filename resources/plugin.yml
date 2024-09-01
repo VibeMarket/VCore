@@ -1,0 +1,7 @@
+name: VCore
+version: 1.0
+author: MasterDash5
+api-version: 1.17
+folia-supported: true
+softdepend: [ LuckPerms ]
+main: org.vibemarket.vcore.VCore

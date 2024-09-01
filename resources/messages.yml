@@ -1,0 +1,10 @@
+global.prefix: "&9&lVibeツ&8 » "
+
+command.discord: "&7https://discord.gg/KddcHrwS"
+command.nightvision.on: "&7Turned &aon&7 Night Vision"
+command.nightvision.off: "&7Turned &coff&7 Night Vision"
+command.nightvision.playeronly: "&cOnly players can use this command."
+command.ping: "&7{$1}ms"
+command.ping.others: "&9{$1}&7: {$2}ms"
+command.ping.usage: "&cUsage: /{$1} [player]"
+command.ping.offline: "&c{$1} is not online."
